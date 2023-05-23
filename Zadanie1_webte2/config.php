@@ -1,8 +1,8 @@
 <?php
 
 $hostname="localhost";
-$username="xgergelya1";
-$password="CWf00gjqu8Jrnkh";
+$username="";
+$password="";
 $dbname="olympic_games";
 
 ?>
